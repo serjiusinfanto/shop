@@ -8,6 +8,8 @@ import '../screens/orders_screen.dart';
 import '../providers/auth.dart';
 
 class AppDrawer extends StatelessWidget {
+  final String userName;
+  AppDrawer(this.userName);
   @override
   Widget build(BuildContext context) {
     return Drawer(
