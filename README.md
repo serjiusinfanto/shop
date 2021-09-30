@@ -1,3 +1,9 @@
-A simple shop application where you can place and manage orders
+# Shop Application
+An application where you can 
+- Add new products
+- Manage products
+- Buy products
+
+## Screenshots
 
 
