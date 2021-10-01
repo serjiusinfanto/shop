@@ -22,5 +22,5 @@ Ordered Products | Manage Product Page
 ![Ordered Products](Screenshots/orders.png) | ![Manage Product Page](Screenshots/manage_product.png)
 
 Add Products Page 
------------- | -------------
+------------ 
 ![Add Products Page](Screenshots/add_product.png) 
