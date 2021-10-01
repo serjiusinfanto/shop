@@ -17,10 +17,10 @@ Favourites | Cart
 ------------ | -------------
 ![Favourites](Screenshots/favourites.png) | ![Cart](Screenshots/cart.png)
 
-Ordered Products | Manage Product Page
+Ordered Products | Manage Products Page
 ------------ | -------------
-![Ordered Products](Screenshots/orders.png) | ![Manage Product Page](Screenshots/manage_product.png)
+![Ordered Products](Screenshots/orders.png) | ![Manage Products Page](Screenshots/manage_product.png)
 
-Add Products Page 
+Add Product Page 
 ------------ 
-![Add Products Page](Screenshots/add_product.png) 
+![Add Product Page](Screenshots/add_product.png) 
